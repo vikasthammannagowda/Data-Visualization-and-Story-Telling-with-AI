@@ -5,7 +5,7 @@ HEAD
 
 In an era of ubiquitous artificial intelligence, I leverage AI and large language models (LLMs) as
 pedagogical tools to deepen student learning. In my undergraduate course Data Visualization and
-Storytelling with AI (DAT-230), students learn core visualization principles, modern web development,
+Storytelling with AI, students learn core visualization principles, modern web development,
 and hardware integration while collaborating with AI assistants. The overarching goal is to
 empower students as critical thinkers who can harness LLMs for ideation, coding, and analysis,
 rather than using them as “oracles”. This integration is driven by a clear rationale: by offloading
